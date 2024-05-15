@@ -1,4 +1,4 @@
-# change directory to project
+# change directory 
 
 # STEP1- Build with --> "npm run build"
 
